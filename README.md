@@ -6,6 +6,4 @@ Library Management System
 
 [#] developed in PostgreSQL,Java,JDBC,JavaFX & Gluon SceneBuilder.
 
-[#] Screenshots Attached.
-
 [#] developed as a project for the 2nd Semester of Msc Computer       Science.
