@@ -4,7 +4,7 @@ Library Management System
 
 [#] simple library management system to lend & keep track of          lended   books. 
 
-[#] developed in Java,JavaFX & Gluon SceneBuilder.
+[#] developed in PostgreSQL,Java,JDBC,JavaFX & Gluon SceneBuilder.
 
 [#] Screenshots Attached.
 
