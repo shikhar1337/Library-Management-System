@@ -14,5 +14,5 @@ Library Management System
 - Run the project through IDEA client.
 
 [#] Login Details
-- Username = shikhar
-- Password = abc123
+- Username = admin  
+- Password = admin
