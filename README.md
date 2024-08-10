@@ -1,4 +1,4 @@
-# Library Management System
+# Library-Management-System
 
 [#] simple library management system to lend & keep track of          lended   books. 
 
